@@ -1,3 +1,7 @@
+// Author: Hussain Al Zerjawi
+// Purpose: Practicing webhooks using JavaScript/NodeJS
+// Date: 12/10/2022
+
 // Require express and body-parser
 const express = require("express")
 const bodyParser = require("body-parser")
